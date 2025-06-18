@@ -4,3 +4,7 @@
 .direnv/
 .envrc
 .DS_Store
+
+**/#*.rkt#*
+**/*.rkt~
+**/*.rkt.bak
