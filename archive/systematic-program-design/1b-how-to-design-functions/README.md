@@ -79,7 +79,7 @@ HtDF 레시피를 따라가다보면 문제가 훨씬 간단해질 겁니다.
 
 7. Full Code
 
-```scheme
+```scheme showLineNumbers
 (require 2htdp/image)
 
 ;; Rectangle, Rectangle -> Boolean
